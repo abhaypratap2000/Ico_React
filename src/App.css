@@ -1,0 +1,7 @@
+#abhay {
+  /* background-color: rgb(0, 0, 0); */
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background:url('./components/imgs/2.png') no-repeat center center/cover;
+}
